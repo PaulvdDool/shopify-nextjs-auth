@@ -12,6 +12,10 @@ This Shopify example app has been build using NextJS. It does requests to the Sh
 ## Getting Started
 Shopify Partner account and Shopify dev store required.
 
+### Download or clone
+Download or clone this repository locally.  
+Run `npm install` from the file directory.
+
 ### Setup
 Change the name for the `.env.example` file to `.env.local` and fill in the value for each variable. The ngrok callback URL can be set up in the next step.
 ```
